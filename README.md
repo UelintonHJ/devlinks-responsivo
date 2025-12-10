@@ -1,54 +1,56 @@
 # 🔗 [DevLinks Responsivo - Mobile First](https://devlinks-responsivo.vercel.app/)
 
-O **DevLinks Responsivo** é um mini projeto inspirado no Linktree, criado com foco em **mobile first**, design moderno e troca de temas (dark/light mode).
-O objetivo é demonstrar demínio de HTML + CSS + JS puro na criação de interfaces limpas, funcionais e reutilizáveis.
+Mini projeto inspirado no Linktree, criado com foco em **mobile-first**, design moderno, animações suaves e alternância de **tema claro/escuro**. Desenvolvido como exercício de interface limpa, funcional e reutilizável com HTML, CSS e JavaScript puro.
 
 ---
 
 ## 🚀 Funcionalildades
 
-- Layout **100% mobile-first**
-- Design moderno com **gradiente** e efeitos de hover
-- **Links sociais** personalizáveis
-- **Botão para alternar entre tema claro e escuro**
+- Layout 100% mobile-first
+- Gradiente e efeitos de hover
+- Links sociais personalizáveis
+- Tema claro/escuro
 - Animações suaves
-- Componente totalmente reutilizável
+- Componente reutilizável
+- Design minimalista
 
 ---
 
-## 🧩 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-- **HTML5**
-- **CSS3 (variáveis, transições, responsividade)**
-- **JavaScript puro**
-
----
-
-## 📱 Preview do Projeto
-
-![Preview do Projeto](assets/preview-devlinks.gif)
+- HTML5
+- CSS3 (variáveis, transições, responsividade)
+- JavaScript
+- Git & GitHub
 
 ---
 
-## 👍 Mini Componente Reutilizável
+## 📸 Preview 
 
-O projeto foi desenvolvido para ser facilmente reutilizado em outros sites ou portfólios.
-Você pode incorporar este bloco em qualquer página copiando apenas:
-
-- O HTML da `.container`
-- As variáveis CSS do `:root`
-- O script do modo claro/escuro
+![Preview do Projeto](assets/preview-devlinks-responsivo.png)
 
 ---
 
-## 📌 Status do Projeto
+## 📦 Como executar o projeto
 
-✅ Concluído
-✨ Pode receber extensões como animações adicionais, mais redes sociais, gradientes temáticos e efeitos 3D.
+```
+git clone https://github.com/UelintonHJ/devlinks-responsivo.git
+cd devlinks-responsivo
+abrir o index.html no navegador
+```
+Ou acesse diretamente:
+https://devlinks-responsivo.vercel.app/
 
 ---
 
-## 👤 Autor
+📚 Aprendizados
 
-Desenvolvido por **Uelinton Janke**
+Neste projeto aprendi a estruturar interfaces mobile-first, trabalhar com variáveis CSS, criar animações suaves, alternar temas dinamicamente com JavaScript e montar componentes reutilizáveis para outros projetos e portfólios.
+
+---
+
+## 🧑‍💻 Autor
+
+**Uelinton Janke**
+
 LinkedIn: https://www.linkedin.com/in/uelinton-janke/
